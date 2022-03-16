@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Fun With CSS Examples!</title>
+       <link rel="stylesheet" href="CSSExamples.css">
+    </head>
+    <body>
+      <h1>Let's try some fun CSS ideas!</h1>            
+    </body>
+</html>
